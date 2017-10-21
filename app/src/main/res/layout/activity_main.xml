@@ -28,7 +28,7 @@
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="156dp" />
 
-    <Button
+    <ToggleButton
         android:id="@+id/togbtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
