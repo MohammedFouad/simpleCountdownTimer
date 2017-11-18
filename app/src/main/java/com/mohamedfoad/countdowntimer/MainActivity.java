@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         startbtn = (Button)findViewById(R.id.startbtn);
         cancelbtn = (Button)findViewById(R.id.cancelbtn);
         togbtn = (ToggleButton) findViewById(R.id.togbtn);
+        tvl = (TextView)findViewById(R.id.textView);
 
        cancelbtn.setEnabled(false);
       togbtn.setEnabled(false);
@@ -52,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                             cancel();
                         }else {
                             tvl.setText("" + milliSecondsUntilFinished/1000);
-                            remainingTime=milliSecondsUntilFinished;
+                            remainingTime = milliSecondsUntilFinished;
                         }
 
                     }
