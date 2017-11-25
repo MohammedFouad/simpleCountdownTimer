@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CountdownTimer.iml" filepath="$PROJECT_DIR$/CountdownTimer.iml" />
+      <module fileurl="file://C:\Users\EasyUApp\Documents\androiddevelopment\simpleCountdownTimer\CountdownTimer.iml" filepath="C:\Users\EasyUApp\Documents\androiddevelopment\simpleCountdownTimer\CountdownTimer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\EasyUApp\Documents\androiddevelopment\simpleCountdownTimer\app\app.iml" filepath="C:\Users\EasyUApp\Documents\androiddevelopment\simpleCountdownTimer\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleCountdownTimer.iml" filepath="$PROJECT_DIR$/simpleCountdownTimer.iml" />
     </modules>
   </component>
 </project>
